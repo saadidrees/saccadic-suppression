@@ -1,0 +1,2 @@
+fig 6d: model_modulationindex.m
+fig 6g-h: model_transiency.m
